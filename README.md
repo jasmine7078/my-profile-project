@@ -37,5 +37,6 @@ my-profile-project/
 
 ## 5. 배포 주소
 
-- 개인 소개 페이지 (Vercel): 배포 후 추가 예정
-- 백엔드 API 문서 (Render): 배포 후 추가 예정
+- 개인 소개 페이지 (Vercel): https://my-profile-project-zeta.vercel.app
+- 백엔드 API 문서 (Render Swagger UI): https://my-profile-project-nbm.onrender.com/docs
+- 백엔드 프로필 API: https://my-profile-project-nbm.onrender.com/profile
