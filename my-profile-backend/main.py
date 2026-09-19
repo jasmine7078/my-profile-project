@@ -4,7 +4,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI(title="My Profile API")
 
-# 개인 소개 페이지에서 백엔드 API를 호출할 수 있도록 설정
+# 프론트엔드에서 백엔드 API를 호출할 수 있도록 허용
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
