@@ -39,4 +39,4 @@ my-profile-project/
 
 - 개인 소개 페이지 (Vercel): https://my-profile-project-zeta.vercel.app
 - 백엔드 API 문서 (Render Swagger UI): https://my-profile-project-nbm.onrender.com/docs
-- 백엔드 프로필 API: https://my-profile-project-nbm.onrender.com/profile
+- 백엔드 프로필 API: https://my-profile-project-nbrm.onrender.com/profile
